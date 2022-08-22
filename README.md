@@ -6,6 +6,6 @@ I act as a Creative Director and Developer, working both directly with clients a
 
 👀 
 
-[* Portfolio](http://federic.ooo/) [* Twitter](https://twitter.com/fdcooo)  
+[*Portfolio](http://federic.ooo/) [*Twitter](https://twitter.com/fdcooo)  
 
 
