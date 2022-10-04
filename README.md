@@ -7,8 +7,6 @@ There might be some ML/AI stuffs and Rust but that's probably pretty bad so don'
 
 👀 
 
-~[*Portfolio](#)~
-
 [*Twitter](https://twitter.com/fdcooo)  
 
 [*CodeSandbox](https://codesandbox.io/u/vallafederico)  
