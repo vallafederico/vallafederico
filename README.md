@@ -1,6 +1,6 @@
 
 
-## I'm Federico.
+## I'm Federico :)
 
 **Creative Director** and **Dev**, working directly with clients and with agencies. 
 
