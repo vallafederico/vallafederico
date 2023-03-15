@@ -4,7 +4,7 @@
 
 Independent **Creative Director** and **Dev**.
 
-I do most of my work through **Javascript** and **WebGl**. I don't really have a **portfolio**, but in case it happens you'll find it [here](https://federic.ooo/). If you're looking for **boilerplates**, go [here](https://github.com/vallafederico/starters). 
+I don't really have a **portfolio**, but in case it happens you'll find it [here](https://federic.ooo/). If you're looking for **boilerplates**, go [here](https://github.com/vallafederico/starters). 
 
 [Twitter](https://twitter.com/fdrc_o) ·
 [Email](mailto:hello@federic.ooo) ·
