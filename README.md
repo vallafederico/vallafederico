@@ -8,7 +8,6 @@ Portfolio (eventually) [here](https://federic.ooo/).
 
 [Twitter](https://federic.ooo/s/twitter) ·
 [Email](mailto:hello@federic.ooo) ·
-
 [CodeSandbox](https://federic.ooo/s/codesandbox) ·
 [Dribbble](https://federic.ooo/s/dribbble) ·
 [Behance](https://federic.ooo/s/behance)
