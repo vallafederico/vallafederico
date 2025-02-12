@@ -2,15 +2,16 @@
 
 ## I'm Federico :)
 
-Independent **Creative Director** and **Dev**.
+Independent **Creative Direction** & **Dev**.
 
-Portfolio eventually [here](https://federic.ooo/).
+Portfolio (eventually) [here](https://federic.ooo/).
 
-[Twitter](https://twitter.com/fdrc_o) ·
+[Twitter]([https://twitter.com/fdrc_o](https://federic.ooo/s/twitter)) ·
 [Email](mailto:hello@federic.ooo) ·
-[CodeSandbox](https://codesandbox.io/u/vallafederico) ·
-[Dribbble](https://dribbble.com/federicooo) ·
-[Behance](https://www.behance.net/FedericoValla)
+
+[CodeSandbox](https://federic.ooo/s/codesandbox) ·
+[Dribbble](https://federic.ooo/s/dribbble) ·
+[Behance](https://federic.ooo/s/behance)
 
 👀 
 
